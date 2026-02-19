@@ -1,0 +1,2 @@
+# Generative-AI-JAIGPT
+It is an modern ai tools specially designed for students to solve their subject doubts and problems and it is easy to understand all people aged 7+ and it is helpful to editings of pics and videos and create your own video using it. 
